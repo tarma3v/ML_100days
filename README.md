@@ -1,2 +1,1 @@
-# ML_100days
-Pushing everyday challenge, ML
+# Repo for ML_experiments and minor tasks
